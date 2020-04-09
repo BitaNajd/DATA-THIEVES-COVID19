@@ -1,0 +1,109 @@
+unit,sex,age,icd10,geo,time,value
+Rate,Females,Total,Pneumonia,Austria,2016,9.46
+Rate,Females,Total,Pneumonia,Belgium,2016,28.04
+Rate,Females,Total,Pneumonia,Bulgaria,2016,13.33
+Rate,Females,Total,Pneumonia,Switzerland,2016,11.9
+Rate,Females,Total,Pneumonia,Cyprus,2016,10.4
+Rate,Females,Total,Pneumonia,Czechia,2016,25.55
+Rate,Females,Total,Pneumonia,Germany (until 1990 former territory of the FRG),2016,16.0
+Rate,Females,Total,Pneumonia,Denmark,2016,28.91
+Rate,Females,Total,Pneumonia,Estonia,2016,12.36
+Rate,Females,Total,Pneumonia,Greece,2016,7.93
+Rate,Females,Total,Pneumonia,Spain,2016,13.26
+Rate,Females,Total,Pneumonia,European Union - 27 countries (from 2020),2016,17.16
+Rate,Females,Total,Pneumonia,European Union - 28 countries (2013-2020),2016,20.18
+Rate,Females,Total,Pneumonia,Finland,2016,2.27
+Rate,Females,Total,Pneumonia,France,2016,14.07
+Rate,Females,Total,Pneumonia,Croatia,2016,12.06
+Rate,Females,Total,Pneumonia,Hungary,2016,9.05
+Rate,Females,Total,Pneumonia,Ireland,2016,35.51
+Rate,Females,Total,Pneumonia,Iceland,2016,24.47
+Rate,Females,Total,Pneumonia,Italy,2016,11.0
+Rate,Females,Total,Pneumonia,Liechtenstein,2016,75.01
+Rate,Females,Total,Pneumonia,Lithuania,2016,11.86
+Rate,Females,Total,Pneumonia,Luxembourg,2016,17.05
+Rate,Females,Total,Pneumonia,Latvia,2016,11.71
+Rate,Females,Total,Pneumonia,Malta,2016,25.1
+Rate,Females,Total,Pneumonia,Netherlands,2016,17.9
+Rate,Females,Total,Pneumonia,Norway,2016,28.76
+Rate,Females,Total,Pneumonia,Poland,2016,30.86
+Rate,Females,Total,Pneumonia,Portugal,2016,41.55
+Rate,Females,Total,Pneumonia,Romania,2016,26.37
+Rate,Females,Total,Pneumonia,Serbia,2016,12.81
+Rate,Females,Total,Pneumonia,Sweden,2016,13.95
+Rate,Females,Total,Pneumonia,Slovenia,2016,28.81
+Rate,Females,Total,Pneumonia,Slovakia,2016,34.46
+Rate,Females,Total,Pneumonia,Turkey,2016,44.76
+Rate,Females,Total,Pneumonia,United Kingdom,2016,43.33
+Rate,Males,Total,Pneumonia,Austria,2016,14.72
+Rate,Males,Total,Pneumonia,Belgium,2016,48.08
+Rate,Males,Total,Pneumonia,Bulgaria,2016,26.6
+Rate,Males,Total,Pneumonia,Switzerland,2016,20.6
+Rate,Males,Total,Pneumonia,Cyprus,2016,15.68
+Rate,Males,Total,Pneumonia,Czechia,2016,47.73
+Rate,Males,Total,Pneumonia,Germany (until 1990 former territory of the FRG),2016,29.58
+Rate,Males,Total,Pneumonia,Denmark,2016,45.89
+Rate,Males,Total,Pneumonia,Estonia,2016,34.12
+Rate,Males,Total,Pneumonia,Greece,2016,11.14
+Rate,Males,Total,Pneumonia,Spain,2016,25.89
+Rate,Males,Total,Pneumonia,European Union - 27 countries (from 2020),2016,31.48
+Rate,Males,Total,Pneumonia,European Union - 28 countries (2013-2020),2016,35.24
+Rate,Males,Total,Pneumonia,Finland,2016,4.02
+Rate,Males,Total,Pneumonia,France,2016,24.69
+Rate,Males,Total,Pneumonia,Croatia,2016,25.42
+Rate,Males,Total,Pneumonia,Hungary,2016,16.55
+Rate,Males,Total,Pneumonia,Ireland,2016,45.49
+Rate,Males,Total,Pneumonia,Iceland,2016,29.32
+Rate,Males,Total,Pneumonia,Italy,2016,20.66
+Rate,Males,Total,Pneumonia,Liechtenstein,2016,121.13
+Rate,Males,Total,Pneumonia,Lithuania,2016,33.31
+Rate,Males,Total,Pneumonia,Luxembourg,2016,24.79
+Rate,Males,Total,Pneumonia,Latvia,2016,31.54
+Rate,Males,Total,Pneumonia,Malta,2016,33.1
+Rate,Males,Total,Pneumonia,Netherlands,2016,30.86
+Rate,Males,Total,Pneumonia,Norway,2016,45.88
+Rate,Males,Total,Pneumonia,Poland,2016,65.71
+Rate,Males,Total,Pneumonia,Portugal,2016,79.33
+Rate,Males,Total,Pneumonia,Romania,2016,50.11
+Rate,Males,Total,Pneumonia,Serbia,2016,27.3
+Rate,Males,Total,Pneumonia,Sweden,2016,25.7
+Rate,Males,Total,Pneumonia,Slovenia,2016,43.93
+Rate,Males,Total,Pneumonia,Slovakia,2016,71.53
+Rate,Males,Total,Pneumonia,Turkey,2016,66.73
+Rate,Males,Total,Pneumonia,United Kingdom,2016,59.79
+Rate,Total,Total,Pneumonia,Austria,2016,11.33
+Rate,Total,Total,Pneumonia,Belgium,2016,35.27
+Rate,Total,Total,Pneumonia,Bulgaria,2016,18.98
+Rate,Total,Total,Pneumonia,Switzerland,2016,15.12
+Rate,Total,Total,Pneumonia,Cyprus,2016,12.49
+Rate,Total,Total,Pneumonia,Czechia,2016,33.56
+Rate,Total,Total,Pneumonia,Germany (until 1990 former territory of the FRG),2016,20.94
+Rate,Total,Total,Pneumonia,Denmark,2016,35.21
+Rate,Total,Total,Pneumonia,Estonia,2016,19.32
+Rate,Total,Total,Pneumonia,Greece,2016,9.35
+Rate,Total,Total,Pneumonia,Spain,2016,17.97
+Rate,Total,Total,Pneumonia,European Union - 27 countries (from 2020),2016,22.51
+Rate,Total,Total,Pneumonia,European Union - 28 countries (2013-2020),2016,25.77
+Rate,Total,Total,Pneumonia,Finland,2016,2.88
+Rate,Total,Total,Pneumonia,France,2016,17.89
+Rate,Total,Total,Pneumonia,Croatia,2016,16.53
+Rate,Total,Total,Pneumonia,Hungary,2016,11.75
+Rate,Total,Total,Pneumonia,Ireland,2016,39.28
+Rate,Total,Total,Pneumonia,Iceland,2016,26.79
+Rate,Total,Total,Pneumonia,Italy,2016,14.35
+Rate,Total,Total,Pneumonia,Liechtenstein,2016,84.23
+Rate,Total,Total,Pneumonia,Lithuania,2016,19.91
+Rate,Total,Total,Pneumonia,Luxembourg,2016,20.85
+Rate,Total,Total,Pneumonia,Latvia,2016,18.79
+Rate,Total,Total,Pneumonia,Malta,2016,27.85
+Rate,Total,Total,Pneumonia,Netherlands,2016,22.22
+Rate,Total,Total,Pneumonia,Norway,2016,34.75
+Rate,Total,Total,Pneumonia,Poland,2016,43.31
+Rate,Total,Total,Pneumonia,Portugal,2016,55.16
+Rate,Total,Total,Pneumonia,Romania,2016,36.49
+Rate,Total,Total,Pneumonia,Serbia,2016,18.72
+Rate,Total,Total,Pneumonia,Sweden,2016,18.18
+Rate,Total,Total,Pneumonia,Slovenia,2016,34.27
+Rate,Total,Total,Pneumonia,Slovakia,2016,47.18
+Rate,Total,Total,Pneumonia,Turkey,2016,53.29
+Rate,Total,Total,Pneumonia,United Kingdom,2016,49.47

@@ -44,3 +44,4 @@ Include links to your repository, slides and kanban board. Feel free to include 
 [Slides](https://slides.com/)  
 [Miro with MindMap and Kanban-board](https://miro.com/app/board/o9J_kuXqXlg=/)  
 [Link to Google Sheet](https://docs.google.com/spreadsheets/d/1DVaU-9y6D-DjapcBaCU1VwcoMA3JH-H4LrynbhQtkEw/edit?usp=sharing)
+[Link to presentation](https://docs.google.com/presentation/d/1_a2aopsraMcAyiOwjHK8JpJVTTO0lFeuujSnEqaJkF8/edit?usp=sharing)

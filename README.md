@@ -55,7 +55,7 @@ What does your repository look like? Explain your folder and file structure.
 
 -- 1x folder Data
 -- 1x folder Jupyter Notebook with 1 joined Notebook
--- 1x folder with Presentation and MIRO board, both as PDF. The MIRO board export resolution is unfortunately very low due to the "free user" account.
+-- 1x folder with Presentation as PDF. 
 
 ## Links
 Include links to your repository, slides and kanban board. Feel free to include any other links associated with your project.

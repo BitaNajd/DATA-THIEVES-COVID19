@@ -39,6 +39,9 @@ https://npgeo-corona-npgeo-de.hub.arcgis.com/datasets/dd4580c810204019a7b8eb3e0b
 File download: Human development index (HDI) 
 http://hdr.undp.org/en/content/human-development-index-hdi
 
+File download: Kaggle website (Novel Corona Virus 2019 Dataset)
+https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset
+
 
 ## Database
 What is the structure of your database? Have you created more than one table and if yes, how are they related to each other?

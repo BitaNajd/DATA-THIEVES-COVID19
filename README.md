@@ -24,7 +24,8 @@ Due to the actual worldwide spread of the Coronavirus we investigated correlatio
 
 ## Questions & Hypotheses
 Our main question is: Are there correlations between socio-economic topics and deaths caused by Corona virus in Europe?
-We would suggest to see higher no. of deaths in less developped countries. If there is no obvious correlation a deeper analysis of single aspect must be done. 
+We would suggest to see higher no. of deaths in less developped countries. If there is no obvious correlation a deeper analysis of single aspect must be done.
+
 We looked at the following indices:
  
     - Human Development Index per country
@@ -38,7 +39,7 @@ We looked at the following indices:
     - Total annual number of air passengers per country
 
 
-## Dataset
+## Datasets
 API - connection: EUROSTAT (Statistical Office of the European Union)
 https://ec.europa.eu/eurostat/web/json-and-unicode-web-services/getting-started/rest-request
 
@@ -62,20 +63,20 @@ While we investigated many differnt data sources, we mainly used a local MySQL d
 We started the project with a proper initial project execution planning using a Mind Map, Kanban board, time schedule as well as assigning different main roles (Project Manager, MySQL specialist, Pyhton/Plotting Specialist). Although having these roles, every disciplines supported each other as often as necessary for a common understanding and skill sharpening. 
 Then, data from different sources for further inspection were collected and processed in parallel in MySQL and Python. This approach was necessary due to the huge amount of data availabe for which MySQL with its User Interface allowed a better initial data inspection. Processing the data to generate plots was then done in Python with the Matplotlib Libary. 
 
-We set up a project repository on github and while sharing all data we each were colecting, agreed for the explorative part of the project to seperately work in each one's personal folder in the 'WiP', work in progress section of the repository, before combining our work in one central notebook and consolidating all data in one central data structure on the repository.
 
 ## Organization
 It is beneficial to have all project management topics in one document, therefore we used a MIRO Whiteboard incl. a Kanban board, Mind map and time schedule.
 
-What does your repository look like? Explain your folder and file structure.
+What does your repository look like
 
--- 1x folder Data
--- 1x folder Jupyter Notebook with 1 joined Notebook
--- 1x folder with Presentation as PDF. 
+We set up a project repository on github and while sharing all data we each were colecting, agreed for the explorative part of the project to seperately work in each one's personal folder in the 'WiP', work in progress, section of the repository, before combining our work in one central notebook and consolidating all data in one central data structure on the repository.
 
 ## Links
 Include links to your repository, slides and kanban board. Feel free to include any other links associated with your project.
 
-[Repository](https://github.com/)  
+Repository:
+https://github.com/ThomasBentler/DATA-THIEVES-COVID19
+Presentation as PDF:
+https://github.com/ThomasBentler/DATA-THIEVES-COVID19/blob/master/Presentation_ProjectDataThief_Coronavirus_FINAL.pdf
 
 

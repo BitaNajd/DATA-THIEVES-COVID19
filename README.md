@@ -24,7 +24,19 @@ Due to the actual worldwide spread of the Coronavirus we investigated correlatio
 
 ## Questions & Hypotheses
 Our main question is: Are there correlations between socio-economic topics and deaths caused by Corona virus in Europe?
-We would suggest to see higher no. of deaths in less development countries. If there is no obvious correlation a deeper analysis of single aspect must be done.
+We would suggest to see higher no. of deaths in less developped countries. If there is no obvious correlation a deeper analysis of single aspect must be done. 
+We looked at the following indices:
+ 
+    - Human Development Index per country
+    - Number of practicing physicians per 100.000 inhabitants per country
+    - Public Health care spending in Euro per capita per country
+    - Pre-Corona death rate per 100.000 inhabitants for pneumonia per country
+    - Pre-Corona death rate per 100.000 inhabitants for chronic diseases per country
+    - Population density as population per square kilometer per country
+    - Gross domestic product in Euro per Head per country
+    - Total annual number of nights spent in hotels per country
+    - Total annual number of air passengers per country
+
 
 ## Dataset
 API - connection: EUROSTAT (Statistical Office of the European Union)
@@ -39,13 +51,12 @@ https://npgeo-corona-npgeo-de.hub.arcgis.com/datasets/dd4580c810204019a7b8eb3e0b
 File download: Human development index (HDI) 
 http://hdr.undp.org/en/content/human-development-index-hdi
 
-File download: Kaggle website (Novel Corona Virus 2019 Dataset)
+Kaggle - Novel Corona Virus 2019 Dataset
 https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset
 
-
 ## Database
-What is the structure of your database? Have you created more than one table and if yes, how are they related to each other?
----> SQL
+While we investigated many differnt data sources, we mainly used a local MySQL database as a central data repository to join together data we collected from two major sources, the WHO and the statistical office of the European Union, Eurostat. From the WHO we collected the number of confirmed SARS CoV2 infections, number of Covid19 deaths and number of recovered. From Eurostat we collected the data as stated above in Questions & Hypotheses. We created a new MySQL Scheme 'newcovid'. Through data collections via the institutions API and ensuing conversions from 'JSON stat' to pandas dataframe to csv we imported the data into SQL format. We checked for integrity and adaequacy of the datatypes used: Text, Int and Double. The main data from these Eurostat tables were extracted and joined into a new SQL master table on the name of the respective country, misleadingly called 'geo' in Eurostat format. We then joined WHO data as described in this same paragraph above on the name of the country into the new master table. In this new master table, we compared WHO data with Eurostats data at a glance, we looked at possible correlations and exported subsets as csv files. These then we transformed to panda dataframe as a prerequisite for matlib plot.
+
 
 ## Workflow
 We started the project with a proper initial project execution planning using a Mind Map, Kanban board, time schedule as well as assigning different main roles (Project Manager, MySQL specialist, Pyhton/Plotting Specialist). Although having these roles, every disciplines supported each other as often as necessary for a common understanding and skill sharpening. 
